@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulobecharafilho;
-- I'm owner of OnMovie, a startup for video editing. Our platform intermediates the relation between client and video editors with a really good experience.
-- 🌱 I’m currently learning JAVASCRIPT, REACT, REACT NATIVE, SQL.
+- I'm COO and Founder of OnMovie, a startup for video editing. Our platform intermediates the relation between client and video editors with a really good experience.
+- 🌱 I’m currently learning JAVASCRIPT, REACT, REACT NATIVE, SQL, FLUTTER.
 - 📫 How to reach me: instagram: @paulinhobechara @onmovieoficial
 
 <!---
